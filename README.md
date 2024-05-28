@@ -1,11 +1,5 @@
 # Stock Price Prediction App
 
-Welcome to the Stock Price Prediction App! This app allows you to visualize stock price data, explore technical indicators, and make short-term price predictions using machine learning models.
-
-Created and designed by [Vikas Sharma](https://www.linkedin.com/in/vikas-sharma005/).
-
-## Table of Contents
-
 - [Description](#description)
 - [Features](#features)
 - [Setup](#setup)
